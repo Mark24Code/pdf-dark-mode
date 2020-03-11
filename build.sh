@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-zip -r -FS ../pdf-dark-viewer-extendsion.zip * --exclude *.sh
+zip -r -FS ../pdf-dark-mode-extendsion.zip * --exclude *.sh

@@ -12,7 +12,7 @@
 
   "content_scripts": [
     {
-      "matches": ["file://*/*.pdf",  "file:///*"],
+      "matches": ["*://*/*"],
       "js": ["main.js"]
     }
   ]
